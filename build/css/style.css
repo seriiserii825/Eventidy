@@ -55,6 +55,9 @@ h2 {
   font-weight: normal;
   text-transform: uppercase;
 }
+.row-item {
+  margin-bottom: 100px;
+}
 /* pages
 ========================================= */
 html,
@@ -275,11 +278,58 @@ body {
   background: #6bd8d3;
   border-radius: 3px;
 }
-.events .fa-plus-circle {
+.events .fa {
   color: #6bd8d3;
 }
 .events p {
   color: #999;
+}
+.fa-arrow-circle-right {
+  margin-left: 20px;
+}
+.slider .carousel-indicators {
+  left: 0;
+  bottom: 10px;
+  margin: 0;
+  margin-left: 20px;
+  width: auto;
+}
+.slider li,
+.slider li.active {
+  width: 15px;
+  height: 15px;
+  background-color: #fff;
+  border-color: #6bd8d3;
+}
+.slider li.active {
+  background-color: #6bd8d3;
+}
+/*===============  form ===================*/
+.form {
+  padding: 90px 0;
+  text-align: center;
+  background: #f3f3f3;
+}
+.form .row-form {
+  margin-bottom: 50px;
+}
+.form .section-form {
+  padding: 40px;
+  background: #fff;
+  border-radius: 2px;
+}
+.form .section-form input,
+.form .section-form select {
+  padding-right: 25px;
+  height: 44px;
+  background: #efefef;
+  border: none;
+}
+/*================ sponsors ======================*/
+.sponsors {
+  padding: 40px 0;
+  text-align: center;
+  background: #fff;
 }
 @media only screen and (max-width: 600px) {
   .big-header {
@@ -294,5 +344,13 @@ body {
   .section-center .section-btn .btn {
     margin: 5px;
     font-size: 12px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .row-item {
+    margin-bottom: 40px;
+  }
+  .sponsors {
+    padding: 20px 0;
   }
 }

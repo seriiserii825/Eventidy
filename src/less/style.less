@@ -222,17 +222,67 @@ body {
     	padding:0 5px;
     	font-size: 17px;
     	color: @white;
-    	background: @blue;
-    	border-radius: 3px;
+    	background: @blue; border-radius: 3px;
     }
-    .fa-plus-circle{
+    .fa{
     	color: @blue;
     }
     p{
     	color: @pColor;
     }
 }
+.fa-arrow-circle-right{
+	margin-left: 20px;
+}
+.slider{
+	.carousel-indicators{
+		left: 0;
+		bottom: 10px;
+		margin: 0;
+		margin-left: 20px;
+		width: auto;
+	}
+	li,
+	li.active{
+		width: 15px;
+		height: 15px;
+		background-color: @white;
+		border-color: @blue;
+	}
+	li.active{
+		background-color: @blue;
+	}
+}
 
+/*===============  form ===================*/
+.form{
+	padding: 90px 0;
+	text-align: center;
+	background: #f3f3f3;
+	.row-form{
+		margin-bottom: 50px;
+	}
+	.section-form{
+		padding: 40px;
+		background: #fff;
+		border-radius: 2px;
+		input,
+		select{
+			padding-right: 25px;
+			height: 44px;
+			background: @gray;
+			border: none;
+		}
+	}
+}
+
+/*================ sponsors ======================*/
+
+.sponsors{
+	padding: 40px 0;
+	text-align: center;
+	background: @white;
+}
 @media only screen and(max-width: 600px) {
     .big-header {
         min-height: 300px;
@@ -250,5 +300,13 @@ body {
                 font-size: 12px;
             }
         }
+    }
+}
+@media only screen and(max-width: 992px) {
+    .row-item{
+    	margin-bottom: 40px;
+    }
+    .sponsors{
+    	padding: 20px 0;
     }
 }
