@@ -12,10 +12,15 @@
   font-family: Montserrat;
   font-size: 17px;
   text-transform: uppercase;
-  color: #fff;
   border: none;
   -webkit-transition: background .5s;
   transition: background .5s;
+}
+.btn.btn-primary {
+  color: #fff;
+}
+.btn.btn-primary a:hover {
+  color: #2cc7c1;
 }
 /* base
 ======================================== */
@@ -31,14 +36,14 @@ body {
   color: #828282;
   background: #fff;
 }
-a {
+a:visited,
+a:link,
+a:hover {
   font-family: Montserrat;
   font-size: 17px;
-  font-weight: bold;
-  color: #2cc7c1;
-}
-a:hover {
-  color: #2cc7c1;
+  font-weight: normal;
+  text-decoration: none;
+  color: #747a84;
 }
 section {
   position: relative;
@@ -47,6 +52,7 @@ h2 {
   margin-top: 0;
   font-family: Montserrat;
   font-size: 30px;
+  font-weight: normal;
   text-transform: uppercase;
 }
 /* pages
@@ -87,7 +93,7 @@ body {
   font-family: Montserrat;
   font-size: 31px;
   font-weight: bold;
-  color: #fff;
+  color: #828689;
   text-transform: uppercase;
 }
 .section-center p {
@@ -101,10 +107,15 @@ body {
   font-family: Montserrat;
   font-size: 17px;
   text-transform: uppercase;
-  color: #fff;
   border: none;
   -webkit-transition: background .5s;
   transition: background .5s;
+}
+.section-center .section-btn.btn-primary {
+  color: #fff;
+}
+.section-center .section-btn.btn-primary a:hover {
+  color: #2cc7c1;
 }
 .section-center .section-btn .btn-primary {
   background: #7ea4e8;
@@ -121,21 +132,21 @@ body {
 }
 /* speakers
 =========================================== */
+.event {
+  margin-bottom: 100px;
+}
 .speakers {
   padding: 90px 0;
-  border: 2px solid #f0f0f1;
+  border-bottom: 10px solid #f0f0f1;
+  margin-bottom: 20px;
+  font-size: 22px;
+  color: #828689;
 }
 .speakers h2 {
   font-family: Montserrat;
   font-size: 31px;
   font-weight: bold;
-  color: #fff;
   text-transform: uppercase;
-  color: #828689;
-}
-.speakers .large {
-  margin-bottom: 20px;
-  font-size: 22px;
   color: #828689;
 }
 /* section-tabs
@@ -181,6 +192,94 @@ body {
   border-radius: none;
   border: none;
   outline: none;
+}
+/* speakers
+=================================== */
+.speakers-head {
+  margin-bottom: 60px;
+  text-align: center;
+}
+.speakers-body {
+  margin-bottom: 70px;
+}
+.speakers-body .item {
+  text-align: center;
+}
+.speakers-body .item div {
+  position: relative;
+}
+.speakers-body .front,
+.speakers-body .back {
+  width: 140px;
+  height: 140px;
+}
+.speakers-body .front {
+  position: absolute;
+  /* for IE */
+  left: 50%;
+  margin-left: -70px;
+  cursor: pointer;
+}
+.speakers-body .back {
+  display: inline-block;
+  background: #6bd8d3;
+  border-radius: 50%;
+  opacity: 0;
+}
+.speakers-body .fa-twitter {
+  font-size: 30px;
+  line-height: 140px;
+  color: #fff;
+}
+.speakers-body .item div:hover .front {
+  opacity: .4;
+}
+.speakers-body .item div:hover .back {
+  opacity: 1;
+}
+.speakers-body .item div:hover h3 {
+  color: #6bd8d3;
+}
+.speakers-footer {
+  text-align: center;
+}
+/* ================== events ===============*/
+.events {
+  padding: 120px 0;
+}
+.events h2 {
+  font-family: Montserrat;
+  font-size: 31px;
+  font-weight: bold;
+  color: #828689;
+  text-transform: uppercase;
+}
+.events a.link {
+  text-transform: uppercase;
+  color: #6bd8d3;
+}
+.events p.large {
+  margin-bottom: 20px;
+  font-size: 22px;
+  color: #828689;
+}
+.events .tab-collapse {
+  margin-bottom: 20px;
+}
+.events .time {
+  display: inline-block;
+  margin-right: 25px;
+  padding: 0 5px;
+  font-size: 17px;
+  color: #fff;
+  background: #6bd8d3;
+  border-radius: 3px;
+}
+.events .fa-plus-circle {
+  color: #6bd8d3;
+}
+.events p {
+  color: #999;
 }
 @media only screen and (max-width: 600px) {
   .big-header {
