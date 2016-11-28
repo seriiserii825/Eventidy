@@ -21,7 +21,7 @@ body {
 
 .big-header {
     //height: 100vh;
-	padding: 0 10px;
+    padding: 0 10px;
     height: 100%;
     min-height: 500px;
     background: url(../img/2.jpg) no-repeat center;
@@ -56,7 +56,7 @@ body {
         color: @white;
     }
     .section-btn {
-    	max-width: 500px;
+        max-width: 500px;
         .btn;
         .btn-primary {
             background: #7ea4e8;
@@ -74,88 +74,181 @@ body {
     }
 }
 
+
 /* speakers
 =========================================== */
 
-.speakers{
-	padding: 90px 0; 
-	border: 2px solid #f0f0f1;
-	h2{
-		.title;
-		color: #828689;
-	}
-	.large{
-		margin-bottom: 20px;
-		font-size: 22px;
-		color: #828689;
-	}
+.event {
+    margin-bottom: 100px;
 }
+
+.speakers {
+    padding: 90px 0;
+    border-bottom: 10px solid #f0f0f1;
+    h2 {
+        .title;
+        color: #828689;
+    }
+    .large;
+}
+
+
 /* section-tabs
 ========================================= */
-.section-tabs{
-	border-radius: 2px;
-	border: 3px solid #ececec;
-	.tab-content{
-		padding: 25px 20px;
-	}
-	.tab-content ul{
-		padding-left: 10px;
-		li{
-			line-height: 30px;
-		}
-		i{
-			margin-right: 10px;
-			font-size: 15px;
-			color: #2cc7c1;
-		}
-	}
-	.nav-tabs{
-		li{
-			border: none;
-		}
-		li:not(.active){
-			background: #ececec;
-		}
-		li.active a{
-			color: #9097a1;
-		}
-		a{
-			display: block;
-			color: #abb1ba;
-		}
-		&.nav-justified li a,
-		&.nav-justified li.active a,
-		&.nav-justified li.active a:focus,
-		&.nav-justified li.active a:hover{
-			font-family: @ubuntu;
-			font-size: 18px;
-			font-weight: bold;
-			border-radius: none;
-			border: none;
-			outline: none;
-		}
-	}
+
+.section-tabs {
+    border-radius: 2px;
+    border: 3px solid #ececec;
+    .tab-content {
+        padding: 25px 20px;
+    }
+    .tab-content ul {
+        padding-left: 10px;
+        li {
+            line-height: 30px;
+        }
+        i {
+            margin-right: 10px;
+            font-size: 15px;
+            color: #2cc7c1;
+        }
+    }
+    .nav-tabs {
+        li {
+            border: none;
+        }
+        li:not(.active) {
+            background: #ececec;
+        }
+        li.active a {
+            color: #9097a1;
+        }
+        a {
+            display: block;
+            color: #abb1ba;
+        }
+        &.nav-justified li a,
+        &.nav-justified li.active a,
+        &.nav-justified li.active a:focus,
+        &.nav-justified li.active a:hover {
+            font-family: @ubuntu;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: none;
+            border: none;
+            outline: none;
+        }
+    }
 }
 
 
+/* speakers
+=================================== */
+
+.speakers-head {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.speakers-body {
+    margin-bottom: 70px;
+    .item {
+        text-align: center;
+        div {
+            position: relative;
+        }
+    }
+    .front,
+    .back {
+        width: 140px;
+        height: 140px;
+    }
+    .front {
+        position: absolute;
+        /* for IE */
+        left: 50%;
+        margin-left: -70px;
+        cursor: pointer;
+    }
+    .back {
+        display: inline-block;
+        background: @blue;
+        border-radius: 50%;
+        opacity: 0;
+    }
+    .fa-twitter {
+        font-size: 30px;
+        line-height: 140px;
+        color: @white;
+    }
+    .item {
+        div:hover .front {
+            opacity: .4;
+        }
+        div:hover .back {
+            opacity: 1;
+        }
+        div:hover h3 {
+            color: @blue;
+        }
+    }
+}
+
+.speakers-footer {
+    text-align: center;
+}
+
+
+/* ================== events ===============*/
+
+.events {
+    padding: 120px 0;
+    h2 {
+        .title;
+    }
+    a.link {
+        text-transform: uppercase;
+        color: @blue;
+    }
+    p.large {
+        .large;
+    }
+    .tab-collapse{
+    	margin-bottom: 20px;
+    }
+    .time{
+    	display: inline-block;
+    	margin-right: 25px;
+    	padding:0 5px;
+    	font-size: 17px;
+    	color: @white;
+    	background: @blue;
+    	border-radius: 3px;
+    }
+    .fa-plus-circle{
+    	color: @blue;
+    }
+    p{
+    	color: @pColor;
+    }
+}
 
 @media only screen and(max-width: 600px) {
-	.big-header {
-    min-height: 300px;
-}
+    .big-header {
+        min-height: 300px;
+    }
     .section-center {
         h1 {
             font-size: 20px;
         }
-        p{
-        	font-size: 16px;
+        p {
+            font-size: 16px;
         }
-        .section-btn{
-        	.btn{
-        		margin: 5px;
-        		font-size: 12px;	
-        	}
-        	
+        .section-btn {
+            .btn {
+                margin: 5px;
+                font-size: 12px;
+            }
         }
     }
 }
