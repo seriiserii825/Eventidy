@@ -1,0 +1,2963 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"libs",
+				"libs/"
+			],
+			[
+				"ver",
+				"vertical-align\t(_mixins.less)"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"section",
+				"section-row\t(index.html)"
+			],
+			[
+				"li",
+				"libs/"
+			],
+			[
+				"data-",
+				"data-wow-delay"
+			],
+			[
+				"fadeInL",
+				"fadeInLeft"
+			],
+			[
+				"sho",
+				"showMoreId"
+			],
+			[
+				"show-more",
+				"show-more-link\t(index.html)"
+			],
+			[
+				"footer-",
+				"footer-menu__item\t(index.html)"
+			],
+			[
+				"footer-co",
+				"footer-copyright\t(index.html)"
+			],
+			[
+				"elements",
+				"elements/"
+			],
+			[
+				"bottom",
+				"bottom-slider\t(index.html)"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"offer",
+				"offers__title\t(index.html)"
+			],
+			[
+				"banner",
+				"banner-row"
+			],
+			[
+				"product",
+				"product__buy\t(index.html)"
+			],
+			[
+				"btn-",
+				"btn-default\t(index.html)"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"produ",
+				"products-row\t(index.html)"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inlne",
+				"inline-block"
+			],
+			[
+				"slick",
+				"slick-dots\t(sidebar.less)"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"sidebar-",
+				"sidebar-slider__text\t(index.html)"
+			],
+			[
+				"sidebar",
+				"sidebar-slider\t(index.html)"
+			],
+			[
+				"sidebar-slider",
+				"sidebar-slider__item"
+			],
+			[
+				"bo",
+				"bootstrap/"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"font",
+				"font-weight\t(base.less)"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"page",
+				"page-header"
+			],
+			[
+				"main-menu",
+				"main-menu__form\t(index.html)"
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-left-ra",
+				"border-top-left-radius"
+			],
+			[
+				"max",
+				"max-width\t(style.less)"
+			],
+			[
+				"ca",
+				"capitalize"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"dots",
+				"dotsWidth"
+			],
+			[
+				"dost",
+				"dotsWidth"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"slide",
+				"slide-2.jpg\tw:1920 h:852"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"main",
+				"main-slider__item\t(index.html)"
+			],
+			[
+				"js-",
+				"js-menu-top"
+			],
+			[
+				"fa",
+				"fa-bars\t(index.html)"
+			],
+			[
+				"di",
+				"display\t(style.less)"
+			],
+			[
+				"data",
+				"dataAttr"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"drop",
+				"dropdown-menu\t(index.html)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dro",
+				"dropdown-menu\t(index.html)"
+			],
+			[
+				"normali",
+				"normalize.min.css\t(gulpfile.js)"
+			],
+			[
+				"na",
+				"navbar\t(index.html)"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"auo",
+				"autofocus\tAttr"
+			],
+			[
+				"z",
+				"zindex\t(gulpfile.js)"
+			],
+			[
+				"ar",
+				"archives\t(index.html)"
+			],
+			[
+				"my",
+				"my_text\t(index.html)"
+			],
+			[
+				"my_",
+				"my_div\t(index.html)"
+			],
+			[
+				"submi",
+				"submit\t(index.html)"
+			],
+			[
+				"docu",
+				"documentHeight"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"header",
+				"header-form"
+			],
+			[
+				"mixin",
+				"mixins.less"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"img",
+				"img-1\t(sprite.less)"
+			],
+			[
+				"foo",
+				"footerHeight"
+			],
+			[
+				"add",
+				"addMarkerWithTimeout"
+			],
+			[
+				"ne",
+				"neighborhoods"
+			],
+			[
+				"mar",
+				"marker"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"go",
+				"google-map\t(index.html)"
+			],
+			[
+				"slideIn",
+				"slideInUp\t(animate.css)"
+			],
+			[
+				"bou",
+				"bounceInRight\t(animate.css)"
+			],
+			[
+				"rota",
+				"rotateIn\t(animate.css)"
+			],
+			[
+				"fl",
+				"flipInY\t(animate.css)"
+			],
+			[
+				"flipIn",
+				"flipInX\t(animate.css)"
+			],
+			[
+				"fadeInLeft",
+				"fadeInLeftBig\t(animate.css)"
+			],
+			[
+				"event",
+				"e.preventDefault\t(custom.js)"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"modal",
+				"modalId"
+			],
+			[
+				"mod",
+				"modalWidth"
+			],
+			[
+				"mo",
+				"modalId"
+			],
+			[
+				"curren",
+				"currentBlockOffset"
+			],
+			[
+				"paddin",
+				"paddingTop\t(custom.js)"
+			],
+			[
+				"fi",
+				"firstSectionHeight"
+			],
+			[
+				"pa",
+				"pageHeaderHeight"
+			],
+			[
+				"toggle",
+				"toggleClass\t(custom.js)"
+			],
+			[
+				"footer",
+				"footer-content\t(index.html)"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"con",
+				"container\t(base.less)"
+			],
+			[
+				"slider",
+				"slider__text\t(index.html)"
+			],
+			[
+				"sl",
+				"sl__item\t(index.html)"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"slic",
+				"slick.less"
+			],
+			[
+				"tid",
+				"tidy.exe"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"js-te",
+				"js-testimonials-slider\t(index.html)"
+			],
+			[
+				"js",
+				"js-testimonial\t(index.html)"
+			],
+			[
+				"br",
+				"browser-sync"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"brow",
+				"browser-sync"
+			],
+			[
+				"nav",
+				"navHeight"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"pho",
+				"photoHeight"
+			],
+			[
+				"docum",
+				"documentScroll"
+			],
+			[
+				"doc",
+				"documentScroll"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"ph",
+				"photoHeight"
+			],
+			[
+				"title",
+				"title1"
+			],
+			[
+				"logo",
+				"logoOffset"
+			],
+			[
+				"map",
+				"mapOffset"
+			],
+			[
+				"wa",
+				"watch-html"
+			],
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"cols-",
+				"col-xs-12"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/head.html",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/end.html",
+			"settings":
+			{
+				"buffer_size": 50,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/less/style.less",
+			"settings":
+			{
+				"buffer_size": 720,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/less/imports/variables.less",
+			"settings":
+			{
+				"buffer_size": 445,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/less/elements/header.less",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/less/imports/base.less",
+			"settings":
+			{
+				"buffer_size": 1271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/custom.js",
+			"settings":
+			{
+				"buffer_size": 311,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3899,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 983,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cTags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"CSS3: Validate"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"build er",
+				"Highlight Build Errors: Hide build errors"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"List LESS variables"
+			],
+			[
+				"w3c",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"save",
+				"CSS3: Validate"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"auo",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"tag re",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"color",
+				"Color Helper: Show Palettes"
+			],
+			[
+				"color he",
+				"Color Helper: Index Colors in File"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime eror",
+				"SublimeLint: Next Error"
+			],
+			[
+				"sublime lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lintershowa",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintershow",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"all pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git com",
+				"Git: Commit history"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"package control lis",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cs ",
+			"ls -l",
+			"git init",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/My sites/Eventide",
+		"/E/My sites/Eventide/src",
+		"/E/My sites/Eventide/src/less"
+	],
+	"file_history":
+	[
+		"/E/My sites/Eventide/src/less/imports/_mixins.less",
+		"/E/My sites/Eventide/src/less/imports/fonts.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/menu-top.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/bottom-slider.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/offers.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/sidebar.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/main-content.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/main-slogan.less",
+		"/E/My sites/StyleTour/src/less/imports/fonts.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/main-slider.less",
+		"/E/My sites/StyleTour/src/less/imports/elements/main-menu.less",
+		"/E/My sites/StyleTour/src/less/imports/elements.less",
+		"/E/My sites/StyleTour/src/less/bootstrap/css/bootstrap.min.css",
+		"/E/My sites/StyleTour/bower_components/bootstrap/less/bootstrap.less",
+		"/E/My sites/StyleTour/bower_components/slick-carousel/slick/slick-theme.less",
+		"/E/My sites/StyleTour/src/less/imports/base.less",
+		"/E/My sites/StyleTour/src/less/imports/_mixins.less",
+		"/E/My sites/StyleTour/build/fonts/font-awesome-4.7.0.zip",
+		"/E/My sites/StyleTour/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/E/My sites/StyleTour/src/less/imports/variables.less",
+		"/E/My sites/StyleTour/bower_components/normalize-css/normalize.css",
+		"/E/My sites/StyleTour/src/js/main.js+custom.js",
+		"/E/My sites/StyleTour/src/js/bootstrap.min.js",
+		"/E/My sites/StyleTour/src/templates/head.html",
+		"/E/My sites/StyleTour/package.json",
+		"/E/My sites/StyleTour/bootstrap/package.json",
+		"/E/jQuery-practice/practice/src/js/main.js",
+		"/E/jQuery-practice/practice/node_modules/handlebars-layouts/dist/handlebars-layouts.js",
+		"/E/jQuery-practice/practice/src/js/custom/jquery.tooltip.js",
+		"/E/jQuery-practice/practice/src/templates/head.html",
+		"/E/jQuery-practice/practice/gulpfile.js",
+		"/E/jQuery-practice/practice/src/less/imports/base.less",
+		"/E/jQuery-practice/practice/src/js/custom/custom.js",
+		"/E/jQuery-practice/practice/src/index.html",
+		"/E/jQuery-practice/practice/src/less/style.less",
+		"/G/AutoPlay/Source-part1-jQuery/Source-3lesson/default.css",
+		"/E/jQuery-practice/practice/src/templates/end.html",
+		"/E/jQuery-practice/practice/package.json",
+		"/E/My sites/Lookshop/src/js/main.js",
+		"/E/courses/Valaak/JavaScript для верстальщика/content/dopmat/part3/build-front-end/build-front-end/html_template/src/css/style.less",
+		"/E/courses/Valaak/JavaScript для верстальщика/content/dopmat/part3/build-front-end/build-front-end/html_template/src/index.html",
+		"/E/My sites/Lookshop/build/css/style.min.css",
+		"/E/My sites/Lookshop/build/index.html",
+		"/E/My sites/Lookshop/src/templates/head.html",
+		"/E/My sites/Lookshop/src/less/imports/sprite.less",
+		"/E/My sites/Lookshop/gulpfile.js",
+		"/E/jQuery-practice/test/src/templates/end.html",
+		"/E/jQuery-practice/test/src/templates/head.html",
+		"/E/courses/Valaak/JavaScript для верстальщика/content/dopmat/part2/tablesorter/tablesorter/tablesorter/index.html",
+		"/C/Users/serii/Downloads/snazzy-maps-example-ultra-light-with-labels-style.html",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/D/AutoPlay/Source-part1-jQuery/Source-2lesson-home/index.html",
+		"/E/courses/Lavrik/jquery/test/css/style.less",
+		"/E/courses/Lavrik/jquery/test/gulpfile.js",
+		"/E/courses/Lavrik/jquery/source/4_scroll/index.html",
+		"/E/courses/Lavrik/jquery/source/1.2_selectors/index.html",
+		"/E/courses/Lavrik/jquery/test/js/jquery-1.11.2.min.js",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Материалы/Урок 3. Манипуляция свойствами, атрибутами и стилями/003_Homework/H_Task1.html",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Practice/style.css",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Practice/css/style.css",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Practice/gulpfile.js",
+		"/E/jQuery-practice/hosting/gulpfile.js",
+		"/E/jQuery-practice/test/gulpfile.js",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Practice/package.json",
+		"/E/courses/JavaScript/JavaScript (2016)/JQuery/Материалы/jquery-materials/jQuery/Урок 1. Введение в jQuery/003_Homework/style.css",
+		"/E/My sites/StyleTour/src/index.html",
+		"/E/jQuery/hosting/bower_components/wow/css/libs/animate.css",
+		"/E/jQuery/hosting/css/style.css",
+		"/E/jQuery/hosting/css/libs/animate.css",
+		"/E/jQuery/hosting/index.html",
+		"/E/jQuery/hosting/gulpfile.js",
+		"/E/jQuery/hosting/css/style.less",
+		"/E/jQuery/hosting/js/custom.js",
+		"/E/jQuery/test/gulpfile.js",
+		"/E/jQuery/hosting/css/style.css.map",
+		"/E/jQuery/hosting/src/css/libs/animate.less",
+		"/E/jQuery/hosting/css/libs/slick.less",
+		"/E/courses/Valaak/JavaScript для верстальщика/content/dopmat/part2/slick.js/slick.js/hosting/index.html",
+		"/E/jQuery/hosting/bower_components/slick-carousel/slick/slick-theme.less",
+		"/E/jQuery/hosting/bower_components/slick-carousel/slick/slick.less",
+		"/E/jQuery/hosting/bower_components/slick-carousel/slick/slick.js",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/lessvariables.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/List LESS Variables/lessvariables.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/E/jQuery/test/build/js/main.js",
+		"/E/jQuery/test/src/js/custom/custom.js",
+		"/E/jQuery/test/src/less/imports/base.less",
+		"/E/jQuery/test/src/js/main.js",
+		"/E/jQuery/test/src/index.html",
+		"/E/jQuery/test/src/less/style.less",
+		"/E/jQuery/test/package.json",
+		"/E/jQuery/slide/package.json",
+		"/E/jQuery/slide/src/less/style.less",
+		"/E/jQuery/slide/src/less/imports/base.less",
+		"/E/jQuery/slide/gulpfile.js",
+		"/E/jQuery/slide/src/templates/head.html",
+		"/E/jQuery/slide/bower_components/normalize-css/normalize.css",
+		"/E/jQuery/slide/build/index.html",
+		"/E/jQuery/slide/bower_components/css-reset/reset.css",
+		"/E/jQuery/slide/build/css/reset.min.css",
+		"/E/jQuery/slide/src/templates/end.html",
+		"/E/jQuery/slide/src/js/main.js",
+		"/E/jQuery/slide/src/js/custom.js",
+		"/E/jQuery/slide/src/less/libs/slick-theme.less",
+		"/E/jQuery/slide/src/less/libs/slick.less",
+		"/E/My sites/Maket/gulpfile.js",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Sublime-W3CValidators/Sublime-W3CValidators.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Highlight Build Errors/HighlightBuildErrors.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/Less Tabs/lessTabs.sublime-settings",
+		"/C/Users/serii/AppData/Roaming/Sublime Text 3/Packages/User/lessTabs.sublime-settings",
+		"/C/Users/serii/Desktop/slick/gulpfile.js",
+		"/C/Users/serii/Desktop/slick/package.json",
+		"/C/Users/serii/Desktop/slick/js/js.js",
+		"/C/Users/serii/Desktop/slick/index.html",
+		"/C/Users/serii/Desktop/slick/style.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<h3>title</h3>",
+			"<p>description</p>",
+			"text-decoration",
+			"grid",
+			"for",
+			"images",
+			"img",
+			"border-bottom",
+			"map",
+			"fadeIn",
+			"fadeInLeft",
+			"red",
+			"slick-arrow",
+			"testim",
+			"<span",
+			"</span>",
+			".section__item:first-of-type",
+			"</p>",
+			"<p>lo",
+			"body",
+			"favicon.ico",
+			">",
+			"favicon.ico",
+			"testimonials",
+			"testimon",
+			"js-te",
+			"testimonials",
+			"js-link-read-more",
+			"</span>",
+			"</p>",
+			"<p>L",
+			"160",
+			"<ul>",
+			"#title",
+			"a href=\"#\">Title 3",
+			"a href=\"#\">Title 2",
+			"a href=\"#\">Title 1",
+			">Title",
+			"id=\"title",
+			"<ul>",
+			"ul",
+			"lorem",
+			"carousel-example-generic",
+			"aria-expanded=\"true\"",
+			"fa-minus-circle",
+			"img-circle",
+			"carousel-example-generic",
+			"src=\"http://placehold.it/350*150\"",
+			"350x150800*400",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"forParrent",
+			"main",
+			"200",
+			"carousel",
+			"aria-expanded=\"false\"",
+			"fa-plus-circle",
+			"img-circle front",
+			"carousel",
+			"src=\"http://placehold.it/350x150\"",
+			"350*150",
+			"section",
+			"</html>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										160,
+										161
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										82,
+										83
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/end.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										45,
+										49
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "src/less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/less/imports/variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/less/elements/header.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										398,
+										399
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										296,
+										297
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/less/imports/base.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										386,
+										387
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										254,
+										255
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "src/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/js/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										310,
+										311
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										303,
+										304
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										554,
+										555
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										534,
+										535
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										305,
+										306
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										293,
+										294
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.718318695107,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 311.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 272.0
+	},
+	"pinned_build_system": "",
+	"project": "eventide.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_mix",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"varia",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"custom.js",
+				"src\\js\\custom.js"
+			],
+			[
+				"base.less",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"fonts.less",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"end",
+				"src\\templates\\end.html"
+			],
+			[
+				"head",
+				"src\\templates\\head.html"
+			],
+			[
+				"index",
+				"src\\index.html"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"main.j",
+				"src\\js\\main.js"
+			],
+			[
+				"side",
+				"src\\less\\imports\\elements\\sidebar.less"
+			],
+			[
+				"menu-top",
+				"src\\less\\imports\\elements\\menu-top.less"
+			],
+			[
+				"bottom",
+				"src\\less\\imports\\elements\\bottom-slider.less"
+			],
+			[
+				"sidebar",
+				"src\\less\\imports\\elements\\sidebar.less"
+			],
+			[
+				"main-conte",
+				"src\\less\\imports\\elements\\main-content.less"
+			],
+			[
+				"main-slo",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"fonts",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"main-slider",
+				"src\\less\\imports\\elements\\main-slider.less"
+			],
+			[
+				"main-menu",
+				"src\\less\\imports\\elements\\main-menu.less"
+			],
+			[
+				"main-mne",
+				"src\\less\\imports\\elements\\main-menu.less"
+			],
+			[
+				"element",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"main-cont",
+				"src\\less\\imports\\elements\\main-content.less"
+			],
+			[
+				"main-slog",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"boot",
+				"bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"bootr",
+				"bower_components\\bootstrap\\less\\bootstrap.less"
+			],
+			[
+				"main-slogan",
+				"src\\less\\imports\\elements\\main-slogan.less"
+			],
+			[
+				"main-sl",
+				"src\\less\\imports\\elements\\main-slider.less"
+			],
+			[
+				"menu-to",
+				"src\\less\\imports\\elements\\menu-top.less"
+			],
+			[
+				"main-",
+				"src\\less\\imports\\elements\\main-slider.less"
+			],
+			[
+				"base",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"slick.t",
+				"bower_components\\slick-carousel\\slick\\slick-theme.less"
+			],
+			[
+				"elemen",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"custom",
+				"src\\js\\custom.js"
+			],
+			[
+				"vari",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"_",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"norm",
+				"bower_components\\normalize-css\\normalize.css"
+			],
+			[
+				"main.js",
+				"src\\js\\main.js"
+			],
+			[
+				"pack",
+				"bootstrap\\package.json"
+			],
+			[
+				"eleme",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"_mixin",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"base.les",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"cus",
+				"src\\js\\custom\\custom.js"
+			],
+			[
+				"main",
+				"src\\js\\main.js"
+			],
+			[
+				"style",
+				"src\\less\\style.less"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"style.css",
+				"build\\css\\style.min.css"
+			],
+			[
+				"style.min",
+				"build\\css\\style.min.css"
+			],
+			[
+				"index.html",
+				"build\\index.html"
+			],
+			[
+				"base.le",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"style.mi",
+				"build\\css\\style.min.css"
+			],
+			[
+				"",
+				"gulpfile.js"
+			],
+			[
+				"style.",
+				"build\\css\\style.css"
+			],
+			[
+				"hea",
+				"src\\templates\\head.html"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"style.les",
+				"src\\less\\style.less"
+			],
+			[
+				"gogole",
+				"js\\google_map.js"
+			],
+			[
+				"animat",
+				"bower_components\\animate.css\\animate.css"
+			],
+			[
+				"animate.",
+				"css\\libs\\animate.css"
+			],
+			[
+				"index.ht",
+				"index.html"
+			],
+			[
+				"style.c",
+				"css\\style.css"
+			],
+			[
+				"style.less",
+				"css\\style.less"
+			],
+			[
+				"slick",
+				"css\\libs\\slick.less"
+			],
+			[
+				"slick-th",
+				"bower_components\\slick-carousel\\slick\\slick-theme.less"
+			],
+			[
+				"slic",
+				"css\\libs\\slick.less"
+			],
+			[
+				"slick.less",
+				"bower_components\\slick-carousel\\slick\\slick.less"
+			],
+			[
+				"slick.js",
+				"bower_components\\slick-carousel\\slick\\slick.js"
+			],
+			[
+				"_mi",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"custo",
+				"src\\js\\custom\\custom.js"
+			],
+			[
+				"less/libs/slick",
+				"src\\less\\libs\\slick.less"
+			],
+			[
+				"nomr",
+				"bower_components\\normalize-css\\normalize.css"
+			],
+			[
+				"reset",
+				"bower_components\\css-reset\\reset.css"
+			],
+			[
+				"index.h",
+				"build\\index.html"
+			],
+			[
+				"js",
+				"js\\js.js"
+			],
+			[
+				"js/js",
+				"js\\js.js"
+			],
+			[
+				"slick.le",
+				"bower_components\\slick-carousel\\slick\\slick-theme.less"
+			],
+			[
+				"mod",
+				"js\\modal_window.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"js/",
+				"js\\custom.js"
+			],
+			[
+				"le",
+				"js\\learn.js"
+			],
+			[
+				"stylc",
+				"style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ind",
+				"src\\index.html"
+			],
+			[
+				"build/inde",
+				"build\\index.html"
+			],
+			[
+				"inde.",
+				"src\\index.html"
+			],
+			[
+				"end.html",
+				"src\\templates\\end.html"
+			],
+			[
+				"style.le",
+				"src\\less\\style.less"
+			],
+			[
+				"index.",
+				"src\\index.html"
+			],
+			[
+				"base.",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"styel",
+				"src\\less\\style.less"
+			],
+			[
+				"style.l",
+				"src\\less\\style.less"
+			],
+			[
+				"inde",
+				"src\\index.html"
+			],
+			[
+				"scritp",
+				"src\\js\\script.js"
+			],
+			[
+				"idndex.html",
+				"build\\index.html"
+			],
+			[
+				"end.h",
+				"src\\templates\\end.html"
+			],
+			[
+				"end.",
+				"src\\templates\\end.html"
+			],
+			[
+				"scrip",
+				"src\\js\\scripts.js"
+			],
+			[
+				"-mixins",
+				"src\\fonts\\font-awesome\\less\\mixins.less"
+			],
+			[
+				"ba",
+				"src\\less\\imports\\base.less"
+			],
+			[
+				"stle.les",
+				"src\\less\\style.less"
+			],
+			[
+				"ele",
+				"src\\less\\imports\\elements.less"
+			],
+			[
+				"boo",
+				"build\\css\\bootstrap.css"
+			],
+			[
+				"src/mi",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"font",
+				"src\\less\\imports\\fonts.less"
+			],
+			[
+				"var",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"abou",
+				"src\\less\\pages\\about.less"
+			],
+			[
+				"sprite",
+				"src\\less\\imports\\sprite.less"
+			],
+			[
+				"va",
+				"src\\less\\imports\\variables.less"
+			],
+			[
+				"spri",
+				"src\\less\\imports\\sprite.less"
+			],
+			[
+				"icon",
+				"src\\less\\imports\\icons.less"
+			],
+			[
+				"page",
+				"build\\html\\page-header.html"
+			],
+			[
+				"sprie",
+				"src\\less\\imports\\sprite.less"
+			],
+			[
+				"_mixi",
+				"src\\less\\imports\\_mixins.less"
+			],
+			[
+				"mixin",
+				"node_modules\\gulp-less\\node_modules\\less\\test\\less\\mixins.less"
+			],
+			[
+				"fonts/l",
+				"src\\fonts\\Pt_Sans_bold\\PTSans-Bold.woff"
+			],
+			[
+				"sy",
+				"src\\less\\style.less"
+			],
+			[
+				"sty",
+				"src\\less\\style.less"
+			],
+			[
+				"blo",
+				"src\\blog.sublime-project"
+			],
+			[
+				"s",
+				"package.json"
+			],
+			[
+				"sprite.png",
+				"node_modules\\gulp.spritesmith\\node_modules\\spritesmith\\node_modules\\pixelsmith\\node_modules\\get-pixels\\node_modules\\pngjs\\.idea\\node-pngjs2.iml"
+			],
+			[
+				"sprite.css",
+				"build\\css\\sprite.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

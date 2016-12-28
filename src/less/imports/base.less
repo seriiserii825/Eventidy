@@ -1,34 +1,85 @@
-*{
-	padding: 0;
-	margin: 0;
+* {
+    padding: 0;
+    margin: 0;
 }
-body{
-	min-width: 320px;
-	font-family: @ubuntu;
-	font-size: 16px;
-	font-weight: normal;
-	color: #828282;
-	background: #fff;
+
+html,
+body {
+    height: 100%;
 }
+
+body {
+    min-width: 320px;
+    font-family: @ubuntu;
+    font-size: @regular;
+    font-weight: normal;
+    color: @textColor;
+    background: @white;
+}
+
 a:visited,
 a:link,
-a:hover{
-	font-family: @montserrat;
-	font-size: 17px;
-	font-weight: normal;
-	text-decoration: none;
-	color: #747a84;
+a:hover {
+    font-family: @montserrat;
+    font-size: @regular + 1;
+    font-weight: normal;
+    text-decoration: none;
+    color: @white;
 }
-section{
-	position: relative;
+
+h2 {
+    margin-top: 0;
+    font-family: @montserrat;
+    font-size: @regular + 14px;
+    font-weight: normal;
+    text-transform: uppercase;
 }
-h2{
-	margin-top: 0;
-	font-family: @montserrat;
-	font-size: 30px;
-	font-weight: normal;
-	text-transform: uppercase;
+
+img {
+    max-width: 100%;
+    height: auto;
 }
-.row-item{
-	margin-bottom: 100px;
+
+.btn {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-family: @montserrat;
+    font-size: @regular + 1;
+    text-transform: uppercase;
+    color: @white;
+    border: none;
+    border-radius: 3px;
+    transition: background .5s;
+}
+
+.btn-blue {
+    background: @btnBlue;
+    &:hover {
+    	color: @white;
+        background: darken(@btnBlue, 10%);
+    }
+}
+
+.btn-gray {
+	color: @white;
+    background: @btnGray;
+    &:hover {
+    	color: @white;
+        background: darken(@btnGray, 10%);
+    }
+}
+
+.section-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.section-row {
+    display: table-row;
+}
+
+.section-cell {
+    display: table-cell;
+    vertical-align: middle;
 }

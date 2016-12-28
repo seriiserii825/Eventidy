@@ -1,312 +1,46 @@
 @import "imports/variables.less";
 @import "imports/_mixins";
-@import "imports/fonts.less";
 
+/*bootstrap
+=============================================*/
+@import (less) "imports/libs/bootstrap/css/bootstrap.min.css";
+
+  
 /* base
 ======================================== */
 
 @import "imports/base.less";
 
+
 /* pages
 ========================================= */
 
-html,
-body {
-    height: 100%;
+
+@media only screen and (max-width: 1200px) {
+    
 }
 
 
-/* page-header
-================================== */
+/* Medium Devices, Desktops */
 
-.big-header {
-    //height: 100vh;
-    padding: 0 10px;
-    height: 100%;
-    min-height: 500px;
-    background: url(../img/2.jpg) no-repeat center;
-    background-size: cover;
-    .btn-primary {
-        color: #fff;
-    }
-}
-
-.section-table {
-    display: table;
-    width: 100%;
-    height: 100%;
-}
-
-.section-row {
-    display: table-row;
-}
-
-.section-cell {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
-}
-
-.section-center {
-    .inline-block;
-    max-width: 550px;
-    .title;
-    p {
-        font-size: 20px;
-        color: @white;
-    }
-    .section-btn {
-        max-width: 500px;
-        .btn;
-        .btn-primary {
-            background: #7ea4e8;
-            &:hover {
-                background: #6787c2;
-            }
-        }
-        .btn-default {
-            color: @white;
-            background: #6a7079;
-            &:hover {
-                background: #5A6067;
-            }
-        }
-    }
+@media only screen and (max-width: 992px) {
+   
 }
 
 
-/* speakers
-=========================================== */
-
-.event {
-    margin-bottom: 100px;
-}
-
-.speakers {
-    padding: 90px 0;
-    border-bottom: 10px solid #f0f0f1;
-    h2 {
-        .title;
-        color: #828689;
-    }
-    .large;
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+    
 }
 
 
-/* section-tabs
-========================================= */
+/* Extra Small Devices, Phones */
 
-.section-tabs {
-    border-radius: 2px;
-    border: 3px solid #ececec;
-    .tab-content {
-        padding: 25px 20px;
-    }
-    .tab-content ul {
-        padding-left: 10px;
-        li {
-            line-height: 30px;
-        }
-        i {
-            margin-right: 10px;
-            font-size: 15px;
-            color: #2cc7c1;
-        }
-    }
-    .nav-tabs {
-        li {
-            border: none;
-        }
-        li:not(.active) {
-            background: #ececec;
-        }
-        li.active a {
-            color: #9097a1;
-        }
-        a {
-            display: block;
-            color: #abb1ba;
-        }
-        &.nav-justified li a,
-        &.nav-justified li.active a,
-        &.nav-justified li.active a:focus,
-        &.nav-justified li.active a:hover {
-            font-family: @ubuntu;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: none;
-            border: none;
-            outline: none;
-        }
-    }
+@media only screen and (max-width: 480px) {
+
 }
 
+/* header
+==========================================*/
+@import "elements/header.less";
 
-/* speakers
-=================================== */
-
-.speakers-head {
-    margin-bottom: 60px;
-    text-align: center;
-}
-
-.speakers-body {
-    margin-bottom: 70px;
-    .item {
-        text-align: center;
-        div {
-            position: relative;
-        }
-    }
-    .front,
-    .back {
-        width: 140px;
-        height: 140px;
-    }
-    .front {
-        position: absolute;
-        /* for IE */
-        left: 50%;
-        margin-left: -70px;
-        cursor: pointer;
-    }
-    .back {
-        display: inline-block;
-        background: @blue;
-        border-radius: 50%;
-        opacity: 0;
-    }
-    .fa-twitter {
-        font-size: 30px;
-        line-height: 140px;
-        color: @white;
-    }
-    .item {
-        div:hover .front {
-            opacity: .4;
-        }
-        div:hover .back {
-            opacity: 1;
-        }
-        div:hover h3 {
-            color: @blue;
-        }
-    }
-}
-
-.speakers-footer {
-    text-align: center;
-}
-
-
-/* ================== events ===============*/
-
-.events {
-    padding: 120px 0;
-    h2 {
-        .title;
-    }
-    a.link {
-        text-transform: uppercase;
-        color: @blue;
-    }
-    p.large {
-        .large;
-    }
-    .tab-collapse{
-    	margin-bottom: 20px;
-    }
-    .time{
-    	display: inline-block;
-    	margin-right: 25px;
-    	padding:0 5px;
-    	font-size: 17px;
-    	color: @white;
-    	background: @blue; border-radius: 3px;
-    }
-    .fa{
-    	color: @blue;
-    }
-    p{
-    	color: @pColor;
-    }
-}
-.fa-arrow-circle-right{
-	margin-left: 20px;
-}
-.slider{
-	.carousel-indicators{
-		left: 0;
-		bottom: 10px;
-		margin: 0;
-		margin-left: 20px;
-		width: auto;
-	}
-	li,
-	li.active{
-		width: 15px;
-		height: 15px;
-		background-color: @white;
-		border-color: @blue;
-	}
-	li.active{
-		background-color: @blue;
-	}
-}
-
-/*===============  form ===================*/
-.form{
-	padding: 90px 0;
-	text-align: center;
-	background: #f3f3f3;
-	.row-form{
-		margin-bottom: 50px;
-	}
-	.section-form{
-		padding: 40px;
-		background: #fff;
-		border-radius: 2px;
-		input,
-		select{
-			padding-right: 25px;
-			height: 44px;
-			background: @gray;
-			border: none;
-		}
-	}
-}
-
-/*================ sponsors ======================*/
-
-.sponsors{
-	padding: 40px 0;
-	text-align: center;
-	background: @white;
-}
-@media only screen and(max-width: 600px) {
-    .big-header {
-        min-height: 300px;
-    }
-    .section-center {
-        h1 {
-            font-size: 20px;
-        }
-        p {
-            font-size: 16px;
-        }
-        .section-btn {
-            .btn {
-                margin: 5px;
-                font-size: 12px;
-            }
-        }
-    }
-}
-@media only screen and(max-width: 992px) {
-    .row-item{
-    	margin-bottom: 40px;
-    }
-    .sponsors{
-    	padding: 20px 0;
-    }
-}
