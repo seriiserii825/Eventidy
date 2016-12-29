@@ -143,7 +143,7 @@
       <div class="row">
         <div class="speakers-gallery__item col-sm-6 col-md-3">
           <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img">
+            <div class="front speakers-gallery__img js-show-modal" data-target="#helen">
               <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
             </div>
             <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
@@ -155,7 +155,7 @@
         </div>
         <div class="speakers-gallery__item col-sm-6 col-md-3">
           <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img">
+            <div class="front speakers-gallery__img js-show-modal" data-target="#miranda">
               <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
             </div>
             <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
@@ -167,7 +167,7 @@
         </div>
         <div class="speakers-gallery__item col-sm-6 col-md-3">
           <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img">
+            <div class="front speakers-gallery__img js-show-modal" data-target="#cristina">
               <img src="img/speakers4.jpg" width="140" height="140" alt="Cristina">
             </div>
             <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
@@ -179,7 +179,7 @@
         </div>
         <div class="speakers-gallery__item col-sm-6 col-md-3">
           <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img">
+            <div class="front speakers-gallery__img js-show-modal" data-target="#victoria">
               <img src="img/speakers3.jpg" width="140" height="140" alt="Victoria">
             </div>
             <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
@@ -201,6 +201,46 @@
     <a href="#" class="btn btn-blue">register</a>
   </div>
 </section>
+<section class="overlay"></section>
+<section class="modal-window">
+  
+  <div class="modal js-modal" id="helen">
+    <h3 class="modal__title">Helen</h3>
+    <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
+    <p class="modal__descripton">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
+    </p>
+    <a href="#" class="btn btn-red js-close-modal">close</a>
+  </div>
+
+  <div class="modal js-modal" id="miranda">
+    <h3 class="modal__title">Miranda</h3>
+    <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
+    <p class="modal__descripton">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
+    </p>
+    <a href="#" class="btn btn-red js-close-modal">close</a>
+  </div>
+
+  <div class="modal js-modal" id="cristina">
+    <h3 class="modal__title">Cristina</h3>
+    <img src="img/speakers4.jpg" width="140" height="140" alt="cristina">
+    <p class="modal__descripton">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
+    </p>
+    <a href="#" class="btn btn-red js-close-modal">close</a>
+  </div>
+
+  <div class="modal js-modal" id="victoria">
+    <h3 class="modal__title">Victoria</h3>
+    <img src="img/speakers3.jpg" width="140" height="140" alt="victoria">
+    <p class="modal__descripton">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
+    </p>
+    <a href="#" class="btn btn-red js-close-modal">close</a>
+  </div>
+</section>
+
 <script src="js/main.js"></script>
 </body>
 </html>

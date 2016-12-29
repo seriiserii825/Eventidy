@@ -1,0 +1,44 @@
+.modal{
+	position: fixed;
+	top: -200px;
+	left: 50%;
+	display: none;
+	padding: 30px;
+	text-align: center;
+	max-width: 400px;
+	background: darken(@white, 20%);
+	border: 5px solid @red;
+	border-radius: 10px;
+	z-index: 10;
+	opacity: 0;
+	box-shadow: 0 0 35px rgba(0,0,0,.8);
+	&__title{
+		margin-bottom: 20px;
+		font-size: 26px;
+	}
+	&__descripton{
+		margin-bottom: 30px;
+	}
+	.btn{
+		border-radius: 5px;
+		&:hover{
+			background: @green;
+		}
+	}
+	img{
+		margin-bottom: 20px;
+		text-align: center;
+		box-shadow: 0 5px 15px -5px rgba(0,0,0,.4);
+	}
+}
+.overlay{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	display: none;
+	background: #000;
+	opacity: .8;
+}
