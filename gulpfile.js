@@ -62,7 +62,7 @@ gulp.task('html', function() {
     // Переместим их в папку build
 });
 gulp.task('js', function() {
-    gulp.src('src/js/*.js') // Выберем файлы по нужному пути
+    gulp.src('src/js/main.js') // Выберем файлы по нужному пути
         .pipe(rigger())
         .pipe(sourcemaps.init())
         .pipe(uglify())
