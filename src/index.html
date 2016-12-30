@@ -23,6 +23,7 @@
         <!-- section-row -->
     </div>
 </header>
+<!-- speakers -->
 <section class="speakers__header">
     <div class="container">
         <div class="row">
@@ -38,18 +39,18 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="tabs">
+                <div class="tabs" id="tabs">
                     <ul class="tabs__list clearfix">
                         <li class="row">
                             <li class="col-sm-6 active">
                                 <a href="#js-learning" class="js-tab">
-                                  Learning objective
-                                </a>
+                                Learning objective
+                              </a>
                             </li>
                             <li class="col-sm-6">
                                 <a href="#js-target" class="js-tab">
-                                  Target audience
-                                </a>
+                                Target audience
+                              </a>
                             </li>
                         </li>
                     </ul>
@@ -59,41 +60,46 @@
                                 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odot aut fugit, sed quia consequuntur magni dolores eos.
                             </p>
                             <div class="tabs__content-block">
-                                    <div class="row">
-                                      <ul class="tabs__content-list col-sm-6">
-                                          <div class="row">
-                                              <li>
-                                                  <a href="#"><i class="fa fa-check-circle" aria-hidden="true"></i>Nemo enim ipsam voluptatem</a>
-                                              </li>
-                                              <li>
-                                                  <a href="#">
-                                                      <i class="fa fa-check-circle" aria-hidden="true"></i>Neque porro quisquam est
-                                                  </a>
-                                              </li>
-                                              <li>
-                                                  <a href="#">
-                                                      <i class="fa fa-check-circle" aria-hidden="true"></i>Quis autem vel eum
-                                                  </a>
-                                              </li>
-                                              <li>
-                                                  <a href="#">
-                                                      <i class="fa fa-check-circle" aria-hidden="true"></i>Lorem ipsum dolor sit amet
-                                                  </a>
-                                              </li>
-                                      </ul>
-                                      <div class="tabs__content-img col-sm-6">
-                                          <img src="img/tab_img.png" width="188" height="118" alt="tab-image">
-                                      </div>
+                                <div class="row">
+                                    <ul class="tabs__content-list col-sm-6">
+                                        <div class="row">
+                                            <li>
+                                                <a href="#"><i class="fa fa-check-circle" aria-hidden="true"></i>Nemo enim ipsam voluptatem</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="fa fa-check-circle" aria-hidden="true"></i>Neque porro quisquam est
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="fa fa-check-circle" aria-hidden="true"></i>Quis autem vel eum
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <i class="fa fa-check-circle" aria-hidden="true"></i>Lorem ipsum dolor sit amet
+                                                </a>
+                                            </li>
+                                        </div>
+                                    </ul>
+                                    <div class="tabs__content-img col-sm-6">
+                                        <img src="img/tab_img.png" width="188" height="118" alt="tab-image">
                                     </div>
+                                    <!-- tabs-content__img -->
                                 </div>
                             </div>
+                            <!-- row -->
                         </div>
+                        <!-- tabs-content__item -->
                         <div class="js-tab-content tabs__content-item" id="js-target">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis quos ab doloribus modi corporis veritatis sequi odit, excepturi consequatur culpa adipisci accusamus id eius molestiae dignissimos recusandae eum libero.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis quos ab doloribus modi corporis veritatis sequi odit, excepturi consequatur culpa adipisci accusamus id eius molestiae dignissimos recusandae eum libero.</p>
                         </div>
+                        <!-- tabs-content__item -->
                     </div>
                     <!-- tabs__content -->
                 </div>
+                <!-- tabs -->
                 <!-- tabs -->
             </div>
             <!-- col-md-6 -->
@@ -102,114 +108,215 @@
     </div>
     <!-- container -->
 </section>
+<!-- speakers-body -->
 <section class="speakers-body">
-  <div class="container">
-    <div class="speakers-title">
-      <h2>event speakers</h2>
-      <p>
-        Sed ut perspiciatis unde omnis iste natus error 
-      </p>
+    <div class="container">
+        <!-- speakers-title -->
+        <div class="speakers-title">
+            <h2>event speakers</h2>
+            <p>
+                Sed ut perspiciatis unde omnis iste natus error
+            </p>
+        </div>
+        <!-- speakers-gallery -->
+        <div class="speakers-gallery">
+            <div class="row">
+                <div class="speakers-gallery__item col-sm-6 col-md-3">
+                    <div class="speakers-gallery__header">
+                        <div class="front speakers-gallery__img js-show-modal" data-target="#helen">
+                            <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
+                        </div>
+                        <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                    </div>
+                    <h3>Helen</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
+                    </p>
+                </div>
+                <div class="speakers-gallery__item col-sm-6 col-md-3">
+                    <div class="speakers-gallery__header">
+                        <div class="front speakers-gallery__img js-show-modal" data-target="#miranda">
+                            <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
+                        </div>
+                        <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                    </div>
+                    <h3>Miranda</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
+                    </p>
+                </div>
+                <div class="speakers-gallery__item col-sm-6 col-md-3">
+                    <div class="speakers-gallery__header">
+                        <div class="front speakers-gallery__img js-show-modal" data-target="#cristina">
+                            <img src="img/speakers4.jpg" width="140" height="140" alt="Cristina">
+                        </div>
+                        <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                    </div>
+                    <h3>Cristina</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
+                    </p>
+                </div>
+                <div class="speakers-gallery__item col-sm-6 col-md-3">
+                    <div class="speakers-gallery__header">
+                        <div class="front speakers-gallery__img js-show-modal" data-target="#victoria">
+                            <img src="img/speakers3.jpg" width="140" height="140" alt="Victoria">
+                        </div>
+                        <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
+                    </div>
+                    <h3>Victoria</h3>
+                    <p>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
+                    </p>
+                </div>
+            </div>
+            <!-- row -->
+        </div>
+        <!-- speakers-gallery -->
     </div>
-    <div class="speakers-gallery">
-      <div class="row">
-        <div class="speakers-gallery__item col-sm-6 col-md-3">
-          <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img js-show-modal" data-target="#helen">
-              <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
-            </div>
-            <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
-          </div>
-          <h3>Helen</h3>
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
-          </p>
-        </div>
-        <div class="speakers-gallery__item col-sm-6 col-md-3">
-          <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img js-show-modal" data-target="#miranda">
-              <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
-            </div>
-            <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
-          </div>
-          <h3>Miranda</h3>
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
-          </p>
-        </div>
-        <div class="speakers-gallery__item col-sm-6 col-md-3">
-          <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img js-show-modal" data-target="#cristina">
-              <img src="img/speakers4.jpg" width="140" height="140" alt="Cristina">
-            </div>
-            <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
-          </div>
-          <h3>Cristina</h3>
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
-          </p>
-        </div>
-        <div class="speakers-gallery__item col-sm-6 col-md-3">
-          <div class="speakers-gallery__header">
-            <div class="front speakers-gallery__img js-show-modal" data-target="#victoria">
-              <img src="img/speakers3.jpg" width="140" height="140" alt="Victoria">
-            </div>
-            <div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
-          </div>
-          <h3>Victoria</h3>
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque lau dantium, totam rem
-          </p>
-        </div>
-      </div><!-- row -->
-    </div><!-- speakers-gallery -->
-  </div><!-- container -->
+    <!-- container -->
 </section>
+<!-- speakers-footer -->
 <section class="speakers-footer">
-  <div class="container">
-    <p class="large">
-      Sed ut perspiciatis unde omnis iste natus error <br> sit voluptatem accusantium doloremque laudantium
-    </p>
-    <a href="#" class="btn btn-blue">register</a>
-  </div>
+    <div class="container">
+        <p class="large">
+            Sed ut perspiciatis unde omnis iste natus error
+            <br> sit voluptatem accusantium doloremque laudantium
+        </p>
+        <a href="#" class="btn btn-blue">register</a>
+    </div>
 </section>
+<!-- collapse -->
+<section class="events">
+    <div class="container">
+        <!-- row-item -->
+        <div class="row row-item">
+            <div class="col-md-6">
+                <h2>event schedule</h2>
+                <p class="large">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                </p>
+                <p>
+                    Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit. aut fugit sed quia consequuntur magni dolores eos qui rati one voluptateim sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci veli sed quia non numquam eius modi tempora
+                </p>
+                <a href="#" class="link">
+                    <i class="fa fa-arrow-circle-down" aria-hidden="true"></i> All Schedule (PDF)
+                </a>
+            </div>
+            <!-- col-md-6 -->
+            <div class="col-md-6">
+                <div class="tabs" id="events-tabs">
+                    <ul class="tabs__list clearfix">
+                        <li class="col-sm-4 active">
+                            <a href="#js-nov18" class="js-tab">
+                          nov 18
+                        </a>
+                        </li>
+                        <li class="col-sm-4">
+                            <a href="#js-nov19" class="js-tab">
+                          nov 19
+                        </a>
+                        </li>
+                        <li class="col-sm-4">
+                            <a href="#js-nov20" class="js-tab">
+                          nov 20
+                        </a>
+                        </li>
+                    </ul>
+                    <div class="tabs__content">
+                        <div class="js-tab-content tabs__content-item active" id="js-nov18">
+                            <div class="collapse">
+                                <div class="collapse__item">
+                                    <div class=" js-collapse-tab collapse__title collapse-open clearfix" data-collapse="#tab-1">
+                                        <time>10:00 am</time>
+                                        <h5>Nemo enim ipsam voluptatem</h5>
+                                        <i class="fa fa-minus-circle"></i>
+                                    </div>
+                                    <p class="collapse__content js-collapse-content" id="tab-1">
+                                        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut od ot aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam.
+                                    </p>
+                                </div>
+                                <div class="collapse__item">
+                                    <div class=" js-collapse-tab collapse__title clearfix" data-collapse="#tab-2">
+                                        <time>02:00 pm</time>
+                                        <h5>Lorem ipsum dolor sit amet</h5>
+                                        <i class="fa fa-plus-circle"></i>
+                                    </div>
+                                    <p class="collapse__content js-collapse-content" id="tab-2">
+                                        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut od ot aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam.
+                                    </p>
+                                </div>
+                                <div class="collapse__item">
+                                    <div class=" js-collapse-tab collapse__title clearfix" data-collapse="#tab-3">
+                                        <time>08:00 pm</time>
+                                        <h5>Nemo enim ipsam voluptatem</h5>
+                                        <i class="fa fa-plus-circle"></i>
+                                    </div>
+                                    <p class="collapse__content js-collapse-content" id="tab-3">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quo facilis voluptates, totam inventore, sapiente saepe voluptas deleniti iusto praesentium!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- tabs-content__item -->
+                        <div class="js-tab-content tabs__content-item" id="js-nov19">
+                            <h3>nov 19</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis quos ab doloribus modi corporis veritatis sequi odit, excepturi consequatur culpa adipisci accusamus id eius molestiae dignissimos recusandae eum libero.
+                            </p>
+                        </div>
+                        <div class="js-tab-content tabs__content-item" id="js-nov20">
+                            <h3>nov 20</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis quos ab doloribus modi corporis veritatis
+                            </p>
+                        </div>
+                        <!-- tabs-content__item -->
+                    </div>
+                    <!-- tabs__content -->
+                </div>
+                <!-- tabs -->
+            </div>
+        </div>
+        <!-- col-md-6 -->
+    </div>
+    <!-- container -->
+</section>
+<!-- overlay -->
 <section class="overlay"></section>
+<!-- modal window -->
 <section class="modal-window">
-  
-  <div class="modal js-modal" id="helen">
-    <h3 class="modal__title">Helen</h3>
-    <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
-    <p class="modal__descripton">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
-    </p>
-    <a href="#" class="btn btn-red js-close-modal">close</a>
-  </div>
-
-  <div class="modal js-modal" id="miranda">
-    <h3 class="modal__title">Miranda</h3>
-    <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
-    <p class="modal__descripton">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
-    </p>
-    <a href="#" class="btn btn-red js-close-modal">close</a>
-  </div>
-
-  <div class="modal js-modal" id="cristina">
-    <h3 class="modal__title">Cristina</h3>
-    <img src="img/speakers4.jpg" width="140" height="140" alt="cristina">
-    <p class="modal__descripton">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
-    </p>
-    <a href="#" class="btn btn-red js-close-modal">close</a>
-  </div>
-
-  <div class="modal js-modal" id="victoria">
-    <h3 class="modal__title">Victoria</h3>
-    <img src="img/speakers3.jpg" width="140" height="140" alt="victoria">
-    <p class="modal__descripton">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem tempore ducimus, reiciendis similique pariatur, impedit cupiditate iste, facilis libero natus odio deleniti. Doloribus impedit praesentium in, blanditiis quam eum cupiditate.
-    </p>
-    <a href="#" class="btn btn-red js-close-modal">close</a>
-  </div>
+    <div class="modal js-modal" id="helen">
+        <h3 class="modal__title">Helen</h3>
+        <img src="img/speakers1.jpg" width="140" height="140" alt="helen">
+        <p class="modal__descripton">
+            Lorem ipsum dolor sit amet
+        </p>
+        <a href="#" class="btn btn-red js-close-modal">close</a>
+    </div>
+    <div class="modal js-modal" id="miranda">
+        <h3 class="modal__title">Miranda</h3>
+        <img src="img/speakers2.jpg" width="140" height="140" alt="miranda">
+        <p class="modal__descripton">
+            Lorem ipsum dolor sit amet
+        </p>
+        <a href="#" class="btn btn-red js-close-modal">close</a>
+    </div>
+    <div class="modal js-modal" id="cristina">
+        <h3 class="modal__title">Cristina</h3>
+        <img src="img/speakers4.jpg" width="140" height="140" alt="cristina">
+        <p class="modal__descripton">
+            Lorem ipsum dolor sit amet
+        </p>
+        <a href="#" class="btn btn-red js-close-modal">close</a>
+    </div>
+    <div class="modal js-modal" id="victoria">
+        <h3 class="modal__title">Victoria</h3>
+        <img src="img/speakers3.jpg" width="140" height="140" alt="victoria">
+        <p class="modal__descripton">
+            Lorem ipsum dolor sit amet
+        </p>
+        <a href="#" class="btn btn-red js-close-modal">close</a>
+    </div>
 </section>
-
 //= templates/end.html

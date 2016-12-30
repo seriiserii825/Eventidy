@@ -52,6 +52,18 @@ p.large{
 .js-modal.active{
 	display: block;
 }
+/* link */
+a:hover.link,
+a:link.link,
+a:visited.link{
+	color: @blue;
+}
+a:hover.link{
+	text-decoration: underline;
+}
+
+/* btn
+=============================*/
 .btn {
     margin: 0 10px;
     padding: 10px 20px;
@@ -83,7 +95,8 @@ p.large{
 .btn-red{
 	background: @red;
 }
-
+/* section table
+==============================*/
 .section-table {
     display: table;
     width: 100%;
@@ -98,3 +111,135 @@ p.large{
     display: table-cell;
     vertical-align: middle;
 }
+
+/* tabs
+============================*/
+.tabs{
+	border: 3px solid @lightGray;
+	&__list{
+		li{
+			text-align: center;
+		}
+		li.active a{
+			color: @textActive;
+		}
+		li:not(.active){
+			background: @lightGray;
+		}
+		a{
+			display: block;
+			padding: 22px 0;
+			font-family: @ubuntu;
+			font-size: 18px;
+			font-weight: bold;
+			color: @textGray;
+		}
+	}
+	&__content{
+		a{
+			font-family: @montserrat;
+			font-size: @regular;
+			line-height: 25px;
+			font-weight: normal;
+			color: @grayMeddium;
+		}
+	}
+	&__content-item{
+		display: none;
+		padding: 30px 25px;
+		&.active{
+			display: block;
+		}
+		h3{
+			text-transform: uppercase;
+			text-align: center;
+		}
+		p{
+			margin-bottom: 30px;
+		}
+	}
+	&__content-text{
+		margin-bottom: 30px;
+	}
+	&__content-block{
+
+	}
+	&__content-list{
+		li{
+			margin-left: 30px;
+		}
+		a{
+			font-size: @regular - 2;
+		}
+		i{
+			margin-right: 10px;
+		}
+	}
+	&__content-list.col-xs-6{
+		padding-right: 0;
+	}
+	&__content-img{
+		text-align: center;
+	}
+}
+
+/*collapse
+==============================*/
+.collapse{
+	&__title{
+		margin-bottom: 25px;
+		cursor: pointer;
+		time{
+			margin-right: 25px;
+			padding: 5px 10px;
+			text-transform: uppercase;
+			color: @white;
+			background: @blue;
+			border-radius: 2px;
+		}
+		h5{
+			.inline-block;
+			font-size: 18px;
+		}
+		i{
+			float: right;
+			color: @blue;
+		}
+	}
+	&__content{
+		padding: 10px;
+	}
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (max-width: 992px) {
+   
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+    .tabs__content-list{
+    	margin-bottom: 40px;
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+@media only screen and (max-width: 480px) {
+
+}
+
+
+
+
+
