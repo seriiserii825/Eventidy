@@ -3,7 +3,77 @@
 	p{
 		margin-bottom: 20px;
 	}
-	.fa{
+	.collapse__title{
+		.fa{
+				position: relative;
+				top: 5px;
+			}
+	}
+	.fa-arrow-circle-down{
 		margin-right: 8px;
+	}
+	.fa-arrow-circle-right{
+		margin-left: 8px;
+	}
+}
+.events-gallery{
+	max-width: 600px;
+	height: auto;
+	border-radius: 5px;
+	overflow: hidden;
+	z-index: 1;
+	.slick-dots{
+		left: 18px;
+		bottom: 25px;
+		width: auto;
+		.slick-active{
+			button{
+				background: @blue;
+			}
+		}
+		li{
+			margin: 0;
+			margin-right: 7px;
+			button{
+				width: 20px;
+				height: 20px;
+				border: 4px solid @blue;
+				border-radius: 50%;
+				&:before{
+					content: '';
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.events{
+		.collapse__title{
+			h5{
+		    display: inline-block;
+		    vertical-align: middle;
+		    font-size: 15px;
+			}
+			time{
+				display: none;
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 480px) {
+.events-gallery{
+		.slick-dots{
+			bottom: 10px;
+			li{
+				margin-right: 3px;
+				button{
+					width: 10px;
+					height: 10px;
+					border-width: 2px;
+				}
+			}
+		}
 	}
 }

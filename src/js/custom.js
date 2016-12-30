@@ -36,6 +36,18 @@
         $(tabId).fadeIn();
     });
 
+    /* events slider
+    ============================================*/
+    $('#events-gallery').slick({
+    	infinite: true,
+		  speed: 2000,
+		  autoplay: true,
+		  autoplaySpeed: 2000,
+		  dots: true,
+		  mobileFirst: true,
+		  pauseOnHover: false
+    });
+
     /* collapse 
     =========================================*/
     $('.js-collapse-content').not(':first').hide();

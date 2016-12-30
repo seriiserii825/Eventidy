@@ -57,11 +57,36 @@ a:hover.link,
 a:link.link,
 a:visited.link{
 	color: @blue;
+	text-transform: uppercase;
 }
 a:hover.link{
 	text-decoration: underline;
 }
 
+/* row and col
+==================================*/
+.row-item{
+	margin-bottom: 60px;
+}
+.row-item-col{
+	margin-bottom: 60px;
+}
+
+/* video 
+===================================*/
+.videoblock{
+	position: relative;
+	padding-bottom: 62.25%;
+	height: 0;
+	overflow: hidden;
+	iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+}
 /* btn
 =============================*/
 .btn {
@@ -229,6 +254,10 @@ a:hover.link{
 @media only screen and (max-width: 768px) {
     .tabs__content-list{
     	margin-bottom: 40px;
+    }
+    .row-item,
+    .row-item-col{
+    	margin-bottom: 50px;
     }
 }
 
