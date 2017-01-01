@@ -18,6 +18,10 @@
 
 //= ../../bower_components/select2/select2-4.0.3/dist/js/select2.min.js
 
+/* wow 
+==============================================*/
+//= ../../bower_components/wow/dist/wow.min.js
+
 /* custom.js
 ==========================================*/
 	
