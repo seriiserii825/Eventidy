@@ -39,13 +39,14 @@
     /* events slider
     ============================================*/
     $('#events-gallery').slick({
-    	infinite: true,
-		  speed: 2000,
-		  autoplay: true,
-		  autoplaySpeed: 2000,
-		  dots: true,
-		  mobileFirst: true,
-		  pauseOnHover: false
+        infinite: true,
+        autoplay: true,
+        autoplaySpeed: 1000,
+        speed: 2000,
+        dots: true,
+        mobileFirst: true,
+        pauseOnHover: false,
+        arrows: false
     });
 
     /* collapse 
@@ -67,6 +68,51 @@
         }
     });
 
+    /* validate
+    ================================================*/
+    $('#myForm').validate({
+        rules: {
+            name: {
+                required: true
+            },
+            mail: {
+            	required: true,
+            	email: true
+            }
+        },
+        messages: {
+        	name: {
+        		required: "Поле обязательно"
+        	},
+        	mail: {
+        		required: "Поле обязательно",
+        		email: "Введите валидный е-майл"
+        	}
+        }
+    });
+
+    $('.form-control').on('focus blur select change keydown submit', function(){
+    	var times = $(this).attr('data-times');
+    	var check = $(this).attr('data-check');
+		if($(this).hasClass('error')){
+			$(check).hide();
+			$(times).show();
+		}else if($(this).hasClass('valid')){
+			$(times).hide();
+			$(check).show();
+		}
+	});
+
+    $('#js-form-button').on('mousedown mouseup', function(){
+    	if($('.form-control').hasClass('error')){
+    		$('.fa-times-circle').show();
+    	}
+    });
+
+    /* selectify
+    ==========================================*/
+    $("#js-form-select").select2();
+
 
     /*modal
     ===================================================*/
@@ -81,7 +127,7 @@
 
     $('.js-show-modal').on('click', function(e) {
         e.preventDefault();
-        $('.overlay').fadeIn(600);
+        $('.overlay').fadeIn(610);
         var dataId = $(this).attr('data-target');
         $(dataId).css('display', 'block').animate({ opacity: 1, top: '50%' }, 800);
     });
@@ -93,4 +139,4 @@
 
 
 
-})(jQuery)
+})(jQuery);

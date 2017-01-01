@@ -12,7 +12,10 @@
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit Cumque quos ratione optio blanditis deserunt saepe iure unt odit atque eius voluptatum labore ex
                     </p>
                     <div class="section-btn">
-                        <a href="#" class="btn btn-blue">register</a>
+                        <a href="#" class="btn btn-blue">
+                          register
+                          <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                        </a>
                         <a href="#" class="btn btn-gray">discover</a>
                     </div>
                 </div>
@@ -181,7 +184,10 @@
             Sed ut perspiciatis unde omnis iste natus error
             <br> sit voluptatem accusantium doloremque laudantium
         </p>
-        <a href="#" class="btn btn-blue">register</a>
+        <a href="#" class="btn btn-blue">
+                          register
+                          <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                        </a>
     </div>
 </section>
 <!-- collapse -->
@@ -315,6 +321,48 @@
         </div>
     </div>
     <!-- container -->
+</section>
+<!-- form -->
+<section class="section-form">
+    <div class="container">
+        <div class="row row-item">
+            <h2>The most simple way to launch your event</h2>
+            <p class="large">
+                Sed ut perspiciatis unde omnis iste natus error
+                <br> sit voluptatem accusantium doloremque laudantium
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <form action="" class="myForm" id="myForm">
+                    <div class="row">
+                        <div class="form-group col-md-3">
+                            <input class="form-control" type="text" name="name" placeholder="Jane Doe" data-times="#times1" data-check="#check1">
+                            <i id="times1" class="fa fa-times-circle" id="close-icon" aria-hidden="true"></i>
+                            <i id="check1" class="fa fa-check-circle" id="valid-icon" aria-hidden="true"></i>
+                        </div>
+                        <div class="form-group col-md-3">
+                            <input class="form-control" type="email" name="mail" placeholder="Email adress" data-times="#times2" data-check="#check2">
+                            <i id="times2" class="fa fa-times-circle" aria-hidden="true"></i>
+                            <i id="check2" class="fa fa-check-circle" aria-hidden="true"></i>
+                        </div>
+                        <div class="form-group col-md-3">
+                            <select id="js-form-select" class="form-control" name="plan" id="plan">
+                                <option disabled selected>Select Plan</option>
+                                <option>1 Day - 20 $</option>
+                                <option>2 Day - 25 $</option>
+                                <option>3 Day - 40 $</option>
+                            </select>
+                        </div>
+                        <button id="js-form-button" class="btn btn-blue">
+                          register
+                          <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 </section>
 <!-- overlay -->
 <section class="overlay"></section>

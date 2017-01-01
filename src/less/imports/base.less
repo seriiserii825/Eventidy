@@ -31,6 +31,7 @@ h2 {
     margin-top: 0;
     font-family: @montserrat;
     font-size: @regular + 14px;
+    line-height: @regular + 18px;
     font-weight: normal;
     text-transform: uppercase;
 }
@@ -43,6 +44,9 @@ ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
+}
+input:focus{
+	outline: none;
 }
 p.large{
 		margin-bottom: 25px;
@@ -99,6 +103,10 @@ a:hover.link{
     border: none;
     border-radius: 3px;
     transition: background .5s;
+    &:hover,
+    &:focus{
+    	outline: none;
+    }
 }
 
 .btn-blue {
